@@ -2,15 +2,9 @@
 
 :root {
     /* color */
-    --primary-100: #8b5fbf;
-    --primary-200: #61398f;
-    --accent-100: #d6c6e1;
-    --accent-200: #9a73b5;
-    --text-100: #4a4a4a;
-    --text-200: #878787;
-    --bg-100: #f5f3f7;
-    --bg-200: #e9e4ed;
-    --bg-300: #ffffff;
+    --text-100: #353535;
+    --text-200: #959595;
+    --bg-100: #ffffff;
 
     /* font-size */
     --font-size-huge: 64px;
