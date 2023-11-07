@@ -41,16 +41,12 @@
 
 /* fonts */
 
-@font-face {
-    font-family: 'GmarketSansMedium';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff')
-        format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600;700&family=Noto+Sans+JP:wght@300;500;700;900&family=Poppins:wght@300;400;600;800&display=swap');
 
 body {
-    font-family: 'GmarketSansMedium';
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 /* Media query --- mobile */
 @media (min-width: 844px) and (min-height: 390px) {
