@@ -1,8 +1,9 @@
 import { styled } from 'styled-components';
 import './CSS/index.css';
+import TopBanner from './Components/TopBanner';
 
 const MainOuter = styled.main`
-    padding: 10rem 20rem;
+    padding: 10rem;
 `;
 
 const MainInner = styled.div`
@@ -14,7 +15,9 @@ const MainInner = styled.div`
 function App() {
     return (
         <MainOuter>
-            <MainInner>hi</MainInner>
+            <MainInner>
+                <TopBanner />
+            </MainInner>
         </MainOuter>
     );
 }
