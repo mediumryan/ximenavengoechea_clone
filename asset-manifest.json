@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ximenavengoechea_clone/static/css/main.f72ccd84.css",
+    "main.js": "/ximenavengoechea_clone/static/js/main.c36509ae.js",
+    "index.html": "/ximenavengoechea_clone/index.html",
+    "main.f72ccd84.css.map": "/ximenavengoechea_clone/static/css/main.f72ccd84.css.map",
+    "main.c36509ae.js.map": "/ximenavengoechea_clone/static/js/main.c36509ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f72ccd84.css",
+    "static/js/main.c36509ae.js"
+  ]
+}
