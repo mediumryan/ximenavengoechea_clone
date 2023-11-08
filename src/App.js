@@ -4,6 +4,7 @@ import TopBanner from './Components/TopBanner';
 import NavBar from './Components/NavBar';
 import Greeting from './Components/Greeting';
 import Slider from './Components/Slider';
+import Footer from './Components/Footer';
 
 const MainOuter = styled.main`
     padding: 10rem;
@@ -25,6 +26,7 @@ function App() {
                 <NavBar />
                 <Greeting />
                 <Slider />
+                <Footer />
             </MainInner>
         </MainOuter>
     );
