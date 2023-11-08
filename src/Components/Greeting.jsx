@@ -1,7 +1,7 @@
 import { styled } from 'styled-components';
 
 const GreetingWrapper = styled.section`
-    margin-bottom: 3rem;
+    margin: 5rem 0;
     div {
         display: flex;
         flex-direction: column;

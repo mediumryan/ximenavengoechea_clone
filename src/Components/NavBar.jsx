@@ -1,7 +1,7 @@
 import { styled } from 'styled-components';
 
 const NavBarWrapper = styled.nav`
-    margin: 3rem 0;
+    margin-top: 3rem;
     width: 50%;
 `;
 
